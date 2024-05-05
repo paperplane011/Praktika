@@ -18,5 +18,7 @@ public:
 	bool GetVetPass();
 	void PrintInfo();
 	void FillRandom();
+	void Input();
+	void Set(string, int, bool);
 };
 
